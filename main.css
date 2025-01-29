@@ -30,7 +30,7 @@ section{
 
 section h2{
     text-align: center;
-    align-items: first baseline;
+    font: bold;
 }
 
 img{
