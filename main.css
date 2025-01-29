@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+main{
+    gap: 1rem;
+}
+
 section{
     display: flex;
     border: 2px solid rgb(255, 0, 225);
