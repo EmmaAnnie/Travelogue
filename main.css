@@ -33,5 +33,5 @@ section h2{
 }
 
 img{
-    border: 2rem groove rgb(251, 217, 181);
+    border: 2rem ridge rgb(251, 217, 181);
 }
