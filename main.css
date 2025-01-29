@@ -3,7 +3,7 @@
 }
 
 body{
-    background-color: rgb(155, 105, 57);
+    background-color: rgb(192, 144, 100);
     padding: 3rem;
 }
 
@@ -12,7 +12,7 @@ header{
 }
 
 main{
-    background-color: bisque;
+    background-color: rgb(245, 223, 197);
     display: grid;
     grid-template-columns: 1fr;
     gap: 3rem;
