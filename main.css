@@ -23,7 +23,7 @@ section{
     display: flex;
     flex: 1;
     padding: 1rem;
-    border: 2px solid rgb(255, 186, 181);
+    border: 2px solid rgb(181, 250, 255);
     gap: 1rem;
 }
 
