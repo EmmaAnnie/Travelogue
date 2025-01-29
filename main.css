@@ -1,10 +1,8 @@
 *{
     box-sizing: border-box;
 }
-main{
-    display: grid;
-}
 
 section{
+    display: flex;
     border: 2px solid rgb(255, 0, 225);
 }
