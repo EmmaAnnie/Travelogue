@@ -16,7 +16,7 @@ main{
     display: grid;
     grid-template-columns: 1fr;
     gap: 3rem;
-    border-style: groove;
+    border: 1rem groove bisque;
 }
 
 section{
