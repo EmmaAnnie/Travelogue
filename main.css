@@ -28,7 +28,7 @@ section{
 
 section h2{
     text-align: center;
-    align-self: first baseline;
+    align-items: first baseline;
 }
 
 img{
