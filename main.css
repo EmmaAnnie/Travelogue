@@ -12,7 +12,7 @@ header{
 }
 
 main{
-    background-color: rgb(245, 223, 197);
+    background-color: rgb(250, 238, 224);
     display: grid;
     grid-template-columns: 1fr;
     gap: 3rem;
