@@ -16,7 +16,7 @@ main{
     display: grid;
     grid-template-columns: 1fr;
     gap: 3rem;
-    border-style: ridge;
+    border-style: groove;
 }
 
 section{
