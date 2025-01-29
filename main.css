@@ -17,7 +17,7 @@ main{
     display: grid;
     grid-template-columns: 1fr;
     gap: 3rem;
-    border: 2px solid rgb(234, 170, 165);
+    border: 1rem solid rgb(250, 214, 182);
 }
 
 section{
